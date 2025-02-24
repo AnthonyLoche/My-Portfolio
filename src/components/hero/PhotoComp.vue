@@ -20,7 +20,7 @@
 .trapezoid {
     width: 700px;
     height: 600px;
-    background: url("./public/s.jpeg") no-repeat center;
+    background: url("@/assets/s.jpeg") no-repeat center;
     background-size: cover;
     clip-path: polygon(10% 0%, 70% 0%, 100% 60%, 0% 100%);
     animation: float 3s ease-in-out infinite alternate;
