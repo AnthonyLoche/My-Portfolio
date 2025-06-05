@@ -10,6 +10,7 @@
   background: linear-gradient(90deg, #d40c0c, #8b0000, #2e2e2e, #1c1c1c);
   /* Novas cores de gradiente */
   background-size: 300% 300%;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: gradientMove 3s infinite alternate;
