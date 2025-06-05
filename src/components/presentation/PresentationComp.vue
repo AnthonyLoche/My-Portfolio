@@ -165,7 +165,7 @@ watch(isDarkTheme, (newTheme) => {
 .presentation-section {
   position: relative;
   width: 100%;
-  min-height: 100vh;
+  min-height: 70vh;
   display: flex;
   align-items: center;
   justify-content: center;

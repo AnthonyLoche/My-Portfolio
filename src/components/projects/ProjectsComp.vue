@@ -115,7 +115,7 @@ onMounted(() => {
 <style scoped>
 .main-section {
     width: 100%;
-    min-height: 100vh;
+    min-height: 80vh;
     position: relative;
     background: linear-gradient(135deg, #0c0c0c 0%, #1a1a1a 50%, #0f0f0f 100%);
     display: flex;
@@ -214,7 +214,7 @@ onMounted(() => {
 
 .header-section {
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 
 .title-gradient {

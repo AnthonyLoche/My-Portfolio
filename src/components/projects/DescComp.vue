@@ -114,7 +114,7 @@ onMounted(() => {
         rgba(0, 0, 0, 0.8) 70%,
         rgba(0, 0, 0, 0.95) 100%
     );
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(5px); */
     padding: 3rem 2rem 2rem;
     border-radius: 0 0 16px 16px;
     position: relative;
